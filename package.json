@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "google-auth-library": "^9.4.1",
+    "google-spreadsheet": "^4.1.1",
+    "webdriverio": "^8.24.6"
+  }
+}
